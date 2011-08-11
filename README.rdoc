@@ -4,7 +4,7 @@ Description goes here.
 
 == Contributing to hellogloscon
 
-This is my first gem development practice at Gloscon Solutions, Ahmedabad which is RoR practice company.
+This is my first gem development practice at Gloscon Solutions, Ahmedabad which is RoR practice company abc sufhdoogdog.
 
 == Copyright
 
